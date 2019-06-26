@@ -1,6 +1,6 @@
 # Tintin
 
-Teach someone what these function do and how they work.
+Teach someone what these scripts do and how they work.
 
 (they're not in any special order)
 
